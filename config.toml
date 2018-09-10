@@ -1,0 +1,20 @@
+baseurl = "https://blog.0x1b.sh/"
+title = "0x1b.sh"
+# copyright = "Copyright &copy; 2017 - Author Name"
+canonifyurls = false
+theme = "kiera"
+
+paginate = 3
+
+summaryLength = 30
+enableEmoji = true
+pygmentsCodeFences = true
+
+[author]
+    name = "Robert Ely"
+    github = "https://github.com/robertely/"
+    linkedin = "https://www.linkedin.com/in/elyrobert"
+    twitter = "https://twitter.com/ElctrcCrwbr"
+
+[params]
+    tagline = "code/hardware/food | hacking"
